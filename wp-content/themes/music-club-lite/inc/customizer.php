@@ -100,7 +100,7 @@ function music_club_lite_customize_register( $wp_customize ) {
 	   'type'      => 'checkbox'
 	 ));
 
-	 
+	 //email
 	
 	$wp_customize->add_setting('music_club_lite_header_contactem',array(
 		'default' => null,

@@ -31,7 +31,8 @@ get_header(); ?>
                                     comments_template();
                                 ?>
                 </div><!-- entry-content -->
-            <?php endwhile; ?>                 		
+            <?php endwhile; ?>  
+                     		
     </section><!-- section-->   
 </div><!-- .design_innerpage --> 
 </div><!-- .sitefixer --> 

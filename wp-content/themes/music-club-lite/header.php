@@ -77,6 +77,7 @@ $inner_cls = 'siteinner';
                 </div>
                <?php } ?>                           
            <?php } ?>
+           <?php echo do_shortcode('[gtranslate]'); ?>
      </div><!-- .left --> 
      
      <div class="right">

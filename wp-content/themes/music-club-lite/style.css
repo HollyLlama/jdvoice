@@ -160,10 +160,10 @@ h2.section_title{ font-weight:600; font-size:48px; margin-bottom:40px; position:
 
 /* = Page layout css
 -------------------------------------------------------------- */
-.design_contentarea{ width:90%; margin:0; float: none; padding:0; } /*
+.design_contentarea{ width:75%; margin:0; float: left; padding:0; } 
 .design_contentarea ul, .design_contentarea ol{ margin:0 0 20px 20px; }
 .design_contentarea ul li, .design_contentarea ol li{ margin:0; }
-.design_contentarea ul ul, .design_contentarea ol ol{ margin:0 0 0 30px; }*/
+.design_contentarea ul ul, .design_contentarea ol ol{ margin:0 0 0 30px; }
 
 .fullwidth{ width:100% !important; float:none  !important;}
 .fullwidth p{ margin-bottom:15px;}
@@ -173,11 +173,11 @@ h2.section_title{ font-weight:600; font-size:48px; margin-bottom:40px; position:
 .design_innerpage{ padding:50px 0;}
 .design_innerpage p{ margin-bottom:30px;}
 
-.blogpost_lyout{ padding:30px; margin-bottom:30px; background-color:#000; }
+.blogpost_lyout{padding:30px; margin-bottom:30px; background-color:#000; }
 .blogpost_lyout .post-thumb{ width:40%; height:225px; overflow:hidden; float:left; margin:0 5% 0 0;}
 .blogpost_lyout .post-thumb img{ width:100%; height:auto; min-height:225px;}
 .blogpost_lyout h3, h3.single-title{ margin-bottom:5px; font-size:22px; font-weight:600;}
-.blogpost_lyout h3 a{ color:#484f5e;}
+.blogpost_lyout h3 a{ color:#959595;}
 .blogpost_lyout h3 a:hover{ color:#efc62c;}
 .blogpost_lyout p{ margin-bottom:20px;}
 .blog-meta{ font-style:italic; margin-bottom:8px;}
@@ -187,7 +187,7 @@ body.single-post .blogpost_lyout .post-thumb{ margin-bottom:20px;}
 
 /* = sidebar
 -------------------------------------------------------------- */
-#sidebar{ float:right; width:28%;}
+#sidebar{ float:right; width:23%;}
 aside.widget{ padding:20px; margin-bottom:30px; box-shadow:0 0px 8px rgba(0, 0, 0, 0.08);}
 aside.widget ul{ list-style:disc; margin:0; padding:0; }
 h3.widget-title{ font-weight:600; margin:0 0 20px; color:#fff; font-size:24px; position:relative; text-transform:uppercase; }
