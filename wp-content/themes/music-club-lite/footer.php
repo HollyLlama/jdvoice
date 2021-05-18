@@ -47,9 +47,9 @@
         <div class="footer-copyright"> 
             <div class="sitefixer">            	
                 <div class="design-by">
-				  <?php bloginfo('name'); ?>. <?php esc_html_e('All Rights Reserved', 'music-club-lite');?>
-                  <a href="<?php echo esc_url( __( 'https://gracethemes.com/themes/free-music-wordpress-theme', 'music-club-lite' ) ); ?>" target="_blank">
-				    <?php printf( __( 'Theme by %s', 'music-club-lite' ), 'Grace Themes' ); ?>
+				  <?php bloginfo('name'); ?>. <?php esc_html_e('All Rights Reserved.', 'music-club-lite');?>
+                  <a href="<?php echo esc_url( __( 'https://hollyllama.com/', 'music-club-lite' ) ); ?>" target="_blank">
+				    <?php printf( __( 'Site by HollyLlama.', 'music-club-lite' ) ); ?>
                   </a>
                 </div>
              </div><!--end .sitefixer-->             

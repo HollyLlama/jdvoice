@@ -201,6 +201,9 @@ h3.widget-title{ font-weight:600; margin:0 0 20px; color:#fff; font-size:24px; p
 #sidebar .search-form input.search-submit{ background:url(images/search-icon.png) no-repeat center center #efc62c; padding: 12px 0 12px 0; font-size:0; width:20%; height:43px; float:right; border:0;}
 .headerwidget .header-title{ display:none;}
 
+
+
+
 /* = Footer css
 -------------------------------------------------------------- */
 .footer-wrapper{ background-color:#000; padding:0; position:relative; color:#6a6a6a; text-align:center;}
