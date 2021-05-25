@@ -77,7 +77,7 @@ $inner_cls = 'siteinner';
                 </div>
                <?php } ?>                           
            <?php } ?>
-           <?php echo do_shortcode('[gtranslate]'); ?>
+           
      </div><!-- .left --> 
      
      <div class="right">
@@ -101,8 +101,10 @@ $inner_cls = 'siteinner';
                   <?php $music_club_lite_linked_link = get_theme_mod('music_club_lite_linked_link');
                     if( !empty($music_club_lite_linked_link) ){ ?>
                     <a title="linkedin" class="fab fa-linkedin" target="_blank" href="<?php echo esc_url($music_club_lite_linked_link); ?>"></a>
-                  <?php } ?>                  
+                  <?php } ?>  
+                  <?php echo do_shortcode('[gtranslate]'); ?>                
          </div><!--end .social-icons--> 
+         
     <?php } ?> 
     </div>
      <div class="clear"></div>
