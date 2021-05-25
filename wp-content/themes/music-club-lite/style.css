@@ -88,7 +88,7 @@ Lists style CSS
 .site_hdrtop .left i{ margin-right:8px;}
 .site_hdrtop .phoneno{ margin-right:20px;}
 
-.header-infobox{ display:inline; left; line-height:45px; padding-right: 10px;}
+.header-infobox{ display:inline; line-height:45px; padding-right: 10px;}
 .header-infobox i{font-size:15px;margin-right:15px;position:relative; margin-top:5px;}
 .logo {	float: left; width:28%; padding:60px 20px 10px; top:-55px; position: absolute; text-align: left;background-color:rgba(0,0,0,0.8); }
 .logo h1 { margin: 0;font-size:39px; font-weight:400; font-family: 'Kaushan Script', cursive;}
