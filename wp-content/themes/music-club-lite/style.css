@@ -185,6 +185,9 @@ h2.section_title{ font-weight:600; font-size:48px; margin-bottom:40px; position:
 .single_title{ margin-bottom:5px;}
 body.single-post .blogpost_lyout .post-thumb{ margin-bottom:20px;}
 
+.wp-block-columns {width: 100%; display: flex; justify-content: space-around; align-items: flex-start;}
+
+
 /* = sidebar
 -------------------------------------------------------------- */
 #sidebar{ float:right; width:23%;}
